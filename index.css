@@ -1,0 +1,28 @@
+* {
+  background-color: rgb(148, 166, 148);
+  color: black;
+}
+
+.search {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.btn {
+  margin: 10px;
+  background-color: black;
+  color: white;
+}
+
+.txt {
+  border-radius: 2px;
+  background-color: violet;
+  color: blue;
+}
+
+#ss {
+  display: inline;
+}
